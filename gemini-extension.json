@@ -1,0 +1,12 @@
+{
+  "name": "global-source-partners",
+  "version": "1.0.0",
+  "description": "Search expert emerging-markets research on economics, politics, policy and sovereign risk.",
+  "mcpServers": {
+    "global-source-partners": {
+      "httpUrl": "https://www.globalsourcepartners.com/mcp",
+      "timeout": 30000
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
